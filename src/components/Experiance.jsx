@@ -3,7 +3,9 @@ import html from "../../public/html.png";
 import css from "../../public/css.jpg";
 import java from "../../public/java.png";
 import javascript from "../../public/javascript.png";
-import oracle from "../../public/oracle.png";
+// import oracle from "../../public/oracle.png";
+{/* Removed invalid JSX elements */}
+import react from "../../public/reactjs.png";
 import spring from "../../public/spring.png";
 import springBoot from "../../public/springBoot.jpg";
 function Experiance() {
@@ -30,8 +32,8 @@ function Experiance() {
     },
     {
       id: 5,
-      logo: oracle,
-      name: "Oracle",
+      logo: react,
+      name: "React",
     },
     {
       id: 6,

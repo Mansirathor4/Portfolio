@@ -9,7 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
+          Hello, I'm Mansi, a passionate Web developer with a keen eye for MERN
           Stack . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
@@ -18,9 +18,7 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Bachelor of Technology(Computer Science and Engineering) from Thdc Institue of Hydropower Engineering and Technology [recently Graduated in 2025]
         </span>
         <br />
         <br />
@@ -28,10 +26,10 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+          Proficient in JAVA, Experienced with Software
+          Tools/Technologies ,Strong grasp of OOPS Principles and Concepts]
+          Excellent problem-solving skills with Effective communication and
+          collaboration
         </span>
         <br />
         <br />
@@ -39,20 +37,40 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          Motivated and adaptable fresher with hands-on experience through three diverse internships in web development, software development, and campus ambassador roles. Skilled in building responsive web applications, collaborating with cross-functional teams, and driving engagement initiatives. Eager to leverage technical skills and leadership experience to contribute effectively in a dynamic professional environment.
         </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Achievements & Awards
+          Cerifications & Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          &bull; IT Support Virtual Intern – Deloitte
+Successfully completed a virtual internship, gaining hands-on experience in IT support operations.
+<br/>
+
+&bull; Full Stack Web Development – Bit Degree
+Completed a comprehensive course covering full-stack development concepts and practical applications.
+          
+<br/>
+
+&bull; TATA Imagination Challenge – TATA
+Participated in a national-level innovation competition by TATA Group, showcasing creativity and problem-solving skills.
+<br/>
+
+
+&bull;Software Tester – IT Ceeas
+Gained practical experience in software testing, focusing on bug identification, reporting, and quality assurance.
+<br/>
+
+&bull; Mentorship Experience
+Mentored over 10 students in Web Development as part of the college coding club, fostering growth and collaboration.
+<br/>
+
+&bull; Problem Solving
+Solved 150+ problems on LeetCode, demonstrating strong analytical and coding skills.
+<br/>
+          
         </span>
         <br />
         <br />
@@ -60,11 +78,8 @@ function About() {
           Mission Statement
         </h1>
         <p>
-          My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
-          contribute positively to the digital landscape. I am committed to
-          continuous learning and growth, always seeking new challenges and
-          opportunities to expand my horizons.
+          I am driven by a passion for technology and innovation, with a short-term goal of becoming a proficient Full Stack Developer capable of designing and delivering end-to-end web solutions. Through continuous learning, hands-on experience, and collaborative projects, I aim to strengthen my technical and problem-solving skills.
+In the long run, my vision is to channel this expertise into building my own tech-driven business, where I can create solutions that make a real impact, empower others, and contribute to the digital future.
         </p>
       </div>
     </div>
